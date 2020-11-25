@@ -1,1 +1,0 @@
-MATCH p=(Subject {name:"Issuance"})-[r]->() RETURN p
