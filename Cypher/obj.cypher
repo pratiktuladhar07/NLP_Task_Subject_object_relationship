@@ -1,0 +1,1 @@
+MATCH p=(Subject)-[r]->(Object {name:"licences"}) RETURN p limit 15
