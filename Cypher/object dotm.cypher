@@ -1,0 +1,1 @@
+MATCH p=(Subject)-[r]->(Object {name:"DoTM"}) RETURN p
